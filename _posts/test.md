@@ -1,8 +1,6 @@
 ---
-layout: post
-title: 블로그 첫글 테스트
+layout: 글내용
+title: 블로그
 ---
 
-# 소제목
-
-글내용
+내용.
